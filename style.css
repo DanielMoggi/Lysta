@@ -1,0 +1,33 @@
+.lista {
+  width: 40%;
+  padding: 15px;
+  margin: 10px;  
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  margin-top: 300px;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+.removed {
+  color: rgb(39, 41, 43);
+}
+
+.removed label {
+  text-decoration: line-through;
+}
+
+.ok-titulo:hover {
+  background-color: rgb(114, 233, 114);
+}
+
+body {
+  background-image: url(https://img.elo7.com.br/product/600x380/2177548/papel-de-parede-2830-arabesco-erva-doce-cola-gratis-parede.jpg); 
+}
+
+
